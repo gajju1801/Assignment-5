@@ -1,1 +1,1 @@
-# Assignment-5
+in Task 1 i did not use get() function because I am not too familiar with the concept. with some practice I will be able to utilise it well. for Task 2 I took assistance from the module notes to correct the syntax.
